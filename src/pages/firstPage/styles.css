@@ -1,0 +1,24 @@
+.PagesFirst {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.PagesFirst__a {
+    height: 60px;
+    width: 150px;
+    line-height: 60px;
+    margin: 5px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #50fa7b;
+    font-size: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0 1rem;
+    cursor: pointer;
+}
